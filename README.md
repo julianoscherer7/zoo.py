@@ -1,1 +1,1 @@
-# zoo.py
+É um programa que simula um zoológico. Você pode cadastrar animais, listar eles, procurar por categorias (mamíferos, aves, répteis), ver quais animais são vizinhos e até simular a hora da alimentação. Tudo isso num menu simples onde você escolhe o que quer fazer!
