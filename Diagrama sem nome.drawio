@@ -1,9 +1,32 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Página-1" id="l2Bbg9f1yk4K2Uo9LXhG">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <object label="&lt;p&gt;&lt;strong&gt;Animal (classe)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;ul&gt;&lt;li&gt;nome: str&lt;/li&gt;&lt;li&gt;idade: int&lt;/li&gt;&lt;li&gt;barulho: str&lt;/li&gt;&lt;li&gt;movimento: str&lt;/li&gt;&lt;li style=&quot;&quot;&gt;alimentacao: str&lt;/li&gt;&lt;li&gt;habitat: str&lt;/li&gt;&lt;li&gt;vizinhos: list&lt;/li&gt;&lt;li&gt;horas_alimentacao: str&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;" id="kjt4X8aO94E25RMavIv5-1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="270" y="270" width="210" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="kjt4X8aO94E25RMavIv5-3" value="&lt;li&gt;fazer_barulho(): str&lt;/li&gt;&lt;li&gt;movimento(): str&lt;/li&gt;&lt;li&gt;alimentacao(): str&lt;/li&gt;&lt;li&gt;habitat(): str&lt;/li&gt;&lt;li&gt;vizinhos(): str&lt;/li&gt;&lt;li&gt;horas_alimentacao(): str&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="530" width="185" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="kjt4X8aO94E25RMavIv5-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="374.76" y="510" as="sourcePoint" />
+            <mxPoint x="374.76" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kjt4X8aO94E25RMavIv5-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="750" as="sourcePoint" />
+            <mxPoint x="374.66" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kjt4X8aO94E25RMavIv5-6" value="&lt;li&gt;Mamifero&lt;/li&gt;&lt;li&gt;Ave&lt;/li&gt;&lt;li&gt;Reptil&lt;/li&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
